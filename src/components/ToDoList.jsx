@@ -1,7 +1,3 @@
-import React from 'react'
-
 export const ToDoList = () => {
-  return (
-    <div>ToDoList</div>
-  )
-}
+  return <div className="text-cyan-500">ToDoList</div>;
+};
